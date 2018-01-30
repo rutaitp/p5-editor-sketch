@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fcfcfc;
+	font-family: "Proxima Nova", sans-serif;
+	color: #444;
+}
+
+span {
+	display: block;
+}
+
+textarea {
+	width: 90%;
+}
